@@ -12,4 +12,5 @@ You can download our tool by clicking on this link [Click here!](https://www.git
 
 #Issues and Suggestions
 For issues like bug, errors, glitch, Please report it here [Click here!](https://github.com/ShadyEG/SykesScreenCapture/issues)
+<br />
 For suggestions to make our tool better, Please suggest it here [Click here!](https://github.com/ShadyEG/SykesScreenCapture/pulls)
