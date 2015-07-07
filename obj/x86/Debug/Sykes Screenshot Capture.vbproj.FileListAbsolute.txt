@@ -1,0 +1,10 @@
+c:\users\marwa galal\documents\visual studio 2010\Projects\Sykes Screenshot Capture\Sykes Screenshot Capture\bin\Debug\Sykes Screenshot Capture.exe
+c:\users\marwa galal\documents\visual studio 2010\Projects\Sykes Screenshot Capture\Sykes Screenshot Capture\bin\Debug\Sykes Screenshot Capture.pdb
+c:\users\marwa galal\documents\visual studio 2010\Projects\Sykes Screenshot Capture\Sykes Screenshot Capture\bin\Debug\Sykes Screenshot Capture.xml
+c:\users\marwa galal\documents\visual studio 2010\Projects\Sykes Screenshot Capture\Sykes Screenshot Capture\obj\x86\Debug\Sykes_Screenshot_Capture.Form1.resources
+c:\users\marwa galal\documents\visual studio 2010\Projects\Sykes Screenshot Capture\Sykes Screenshot Capture\obj\x86\Debug\Sykes_Screenshot_Capture.Form2.resources
+c:\users\marwa galal\documents\visual studio 2010\Projects\Sykes Screenshot Capture\Sykes Screenshot Capture\obj\x86\Debug\Sykes_Screenshot_Capture.Resources.resources
+c:\users\marwa galal\documents\visual studio 2010\Projects\Sykes Screenshot Capture\Sykes Screenshot Capture\obj\x86\Debug\Sykes Screenshot Capture.vbproj.GenerateResource.Cache
+c:\users\marwa galal\documents\visual studio 2010\Projects\Sykes Screenshot Capture\Sykes Screenshot Capture\obj\x86\Debug\Sykes Screenshot Capture.exe
+c:\users\marwa galal\documents\visual studio 2010\Projects\Sykes Screenshot Capture\Sykes Screenshot Capture\obj\x86\Debug\Sykes Screenshot Capture.xml
+c:\users\marwa galal\documents\visual studio 2010\Projects\Sykes Screenshot Capture\Sykes Screenshot Capture\obj\x86\Debug\Sykes Screenshot Capture.pdb
