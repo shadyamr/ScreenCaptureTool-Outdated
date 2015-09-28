@@ -1,10 +1,7 @@
 # Introduction
-The project was established since 2014 by ShadyX/Shado/ShadyEG (currently Steve Weatherford), The project was paused due to the creator in-real issues, After the project was continued on June 2015 and released on 7th of June 2015, The programs have a pretty design and It's screenshot with a good quality.
+The project was established since 2014 by ShadyX/Shado/ShadyEG/EvanSARP (currently Evan Brown), The project was paused due to the creator in-real issues, After the project was continued on June 2015 and released on 7th of June 2015, The programs have a pretty design and It's screenshot with a good quality.
 
 #Work in Progress
-* About page (25%)
-* Website (95%)
-* Features (Taskbar icon, etctera - 50%)
 * Uninstaller (5%)
 
 #Download
