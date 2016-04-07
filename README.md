@@ -1,15 +1,4 @@
 # Introduction
-The program was made since 2015 by Shado/ShadyEG (known as Steve Malcom), The project was paused due to in-real issues, After the project was re-coded and released in September 2015, It's useful and simple.
+The program was made since 2015 by ShadyEG/Steve Malcom, The project was paused due to real life issues, After the project was re-coded and released in September 2015, then, It was re-coded on the 7th of April 2016 and released on -date here- using Flat UI Design and Imgur API.
 
-#Work in Progress
-* Uninstaller
-* Material Design
-* Converting to C#
-
-#Download
-You can download our tool by clicking on this link [Click here!](https://www.github.com/ShadyEG/SykesScreenCapture/releases), Also you can find the older versions and beta versions.
-
-#Issues and Suggestions
-For issues like bug, errors, glitch, Please report it here [Click here!](https://github.com/ShadyEG/SykesScreenCapture/issues)
-<br />
-For suggestions to make our tool better, Please suggest it here [Click here!](https://github.com/ShadyEG/SykesScreenCapture/pulls)
+You can download my tool by clicking on the "Click Here" redirect link [Click here!](https://www.github.com/ShadyEG/SykesScreenCapture/releases) and If you found any issues in the tool, Please report it here by clicking on the "Report Bug" redirect link [Report Bug!](https://github.com/ShadyEG/SykesScreenCapture/issues)
